@@ -1,0 +1,75 @@
+1)Give the values of the variables x, y and z. Write a program to rotate their values such that x
+has the value of y, y has the value of z and z has the value of x.
+
+2) To calculate the salary of an employee given his basic pay (take input from user). Calculate
+salary of employee. Let HRA be 10 % of basic pay and TA be 5% of basic pay. Let
+employees pay professional tax as 2% of total salary. Calculate salary payable after
+deductions.
+
+3) To accept the total number of minutes as input and then output as hrs + minutes. Ex:- 90
+minutes=1hr 30 mins.
+
+4) To accept an object mass in kilograms and velocity in meters per second and display its
+momentum. Momentum is calculated as p=mv where m is the mass of the object and v is its
+velocity.
+
+5) To accept marks of five courses of students and compute his/her result. Student is passing if
+he/she scores marks equal to and above 40 in each course. If student scores aggregate greater
+than 75%, then the grade is Distinction. If aggregate is 60>= and <75 then the grade is First
+division. If aggregate is 50>= and <60, then the grade is Second division. If aggregate is 40>=
+and <50, then the grade is Third division.
+
+6) To read the coordinates (x, y) (in Cartesian system) and find the quadrant to which it belongs
+(Quadrant -I, Quadrant -II, Quadrant -III, Quadrant -IV).
+
+7) A hotel has a pricing policy as follows: 2 people: 2500Rs. 3 people: 3500Rs. 4 people:
+4500Rs. Additional people: 1000Rs. per person If the customer is staying on company
+business, there is a 20% discount. If the customer is over 60 year age, there is a 15% discount.
+A customer does not receive both discounts. Given the above data, print the cost of the room.
+
+8) To check whether the input number is Armstrong number or not. An Armstrong number is an
+integer with three digits such that the sum of the cubes of its digits is equal to the number
+itself. Ex. 371.
+
+9) Teacher is doing the analysis of the internal examination of a student. She has conducted
+programming & problem solving course test with maximum marks 25 where students have to
+score at least 12 marks to clear the test. Now she wants to find top scorer, lowest scorer, total
+number of pass and fail students. Apply the logic and perform the given task.
+
+10) Write a program to simulate a simple calculator that performs basic tasks such as addition,
+subtraction, multiplication and division with special operations like computing xy
+and x!.
+
+11) Accept number from 1 to 12 and print equivalent month of a year.
+
+12) Write a program to accept the number and Compute a) square root of number, b) Square of
+number, c) Cube of number d) check for prime, d) factorial of number, e) prime factors.
+
+13) The students want to play a game in which blocks are used denoting some integer from 0 to 9.
+These are arranged together in a random manner without seeing to form different numbers
+keeping in mind that the first block is never a 0. Once they form a 5 digit number they read in
+the reverse order to check if the number and its reverse is the same. If both are same then the
+player wins.(Palindrome)
+
+14) Trainer is conducting a session for all 20 employees. She has employee ids of all employees
+represented in 6 digit numbers. She wants to make two groups of employees based on even
+number employee ID or odd number employee ID. Identify the steps to solve the problem and
+implement it
+
+15) Programmer is teaching a course to students. There are N students attending the course,
+numbered 1 through N. Before each lesson, he has to take attendance, i.e. call out the names
+of students one by one and mark which students are present. Each student has a first name and
+a last name. In order to save time, He wants to call out only the first names of students.
+However, whenever there are multiple students with the same first name, he has to call out the
+full names (both first and last names) of all these students. Help him to decide, for each
+student, whether he will call out this student's full name or only the first name. Input: List of
+all student names (First & Last name)
+
+16) Consider you have created a website in which you are accepting details of users where you
+have to take password from the user. Accept password from user with following condition:
+1. Minimum characters 6 and maximum are 12.
+2. At least one digit and one character.
+3. At least one special symbol(@, $,#) .
+
+
+
